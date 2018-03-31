@@ -1,0 +1,43 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1522485972403">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3802657449" ref="legal-advice:services:about:index:contact:purchase:sale"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="legal-advice:services:about:index:contact:purchase:sale"/>
+    <file name="legal-advice.css" crc="405035867" ref="legal-advice"/>
+    <file name="nomq_legal-advice.css" crc="492061165" ref="legal-advice"/>
+    <file name="services.css" crc="284957668" ref="services"/>
+    <file name="nomq_services.css" crc="492061165" ref="services"/>
+    <file name="about.css" crc="3760458466" ref="about"/>
+    <file name="nomq_about.css" crc="492061165" ref="about"/>
+    <file name="index.css" crc="3983672577" ref="index"/>
+    <file name="nomq_index.css" crc="492061165" ref="index"/>
+    <file name="contact.css" crc="529576806" ref="contact"/>
+    <file name="nomq_contact.css" crc="492061165" ref="contact"/>
+    <file name="purchase.css" crc="271356008" ref="purchase"/>
+    <file name="nomq_purchase.css" crc="492061165" ref="purchase"/>
+    <file name="sale.css" crc="34329583" ref="sale"/>
+    <file name="nomq_sale.css" crc="492061165" ref="sale"/>
+  </folder>
+  <folder name="fonts">
+    <file name="aleksandracregular1.woff" crc="4046681044"/>
+    <file name="aleksandracregular1.eot" crc="181513358"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:services:legal-advice:sale:purchase"/>
+    <file name="museutils.js" crc="340535759" ref="index:contact:about:services:legal-advice:sale:purchase"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:services:legal-advice:sale:purchase"/>
+    <file name="museconfig.js" crc="310584261" ref="index:contact:about:services:legal-advice:sale:purchase"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:contact:about:services:legal-advice:sale:purchase"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contact:about:services:legal-advice:sale:purchase"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:services:legal-advice:sale:purchase"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact:about:services:legal-advice:sale:purchase"/>
+    <file name="require.js" crc="7928878" ref="index:contact:about:services:legal-advice:sale:purchase"/>
+  </folder>
+  <file name="index.html" crc="514949877" seo="true" mt="1522485387141" redirect="true"/>
+  <file name="contact.html" crc="200738473" seo="true" mt="1522485387141" redirect="true"/>
+  <file name="about.html" crc="217771977" seo="true" mt="1522485387141" redirect="true"/>
+  <file name="services.html" crc="321784419" seo="true" mt="1522485387141" redirect="true"/>
+  <file name="legal-advice.html" crc="3820409604" seo="true" mt="1522485387141" redirect="true"/>
+  <file name="sale.html" crc="3831989710" seo="true" mt="1522485387141" redirect="true"/>
+  <file name="purchase.html" crc="4049091498" seo="true" mt="1522485387141" redirect="true"/>
+</manifest>
